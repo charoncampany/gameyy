@@ -272,21 +272,21 @@
 
 #make1{
 	position: absolute;
-	z-index: 5;
+	z-index: 30;
 	top: 30px;
 	left: 880px;
 }
 
 #make2{
 	position: absolute;
-	z-index: 5;
+	z-index: 30;
 	top: 130px;
 	left: 880px;
 }
 
 #make3{
 	position: absolute;
-	z-index: 5;
+	z-index: 30;
 	top: 150px;
 	left: 880px;
 }
